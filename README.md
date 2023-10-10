@@ -21,10 +21,10 @@
     <main>
         <section class="offre-demploi">
             <h2>[Titre du poste]</h2>
-            <p><strong>Entreprise :</strong> [Nom de l'entreprise]</p>
-            <p><strong>Lieu :</strong> [Lieu du poste]</p>
-            <p><strong>Type de contrat :</strong> [Type de contrat]</p>
-            <p><strong>Date de publication :</strong> [Date de publication]</p>
+            <p><strong>Entreprise :</strong> [Amazon]</p>
+            <p><strong>Lieu :</strong> [Paris]</p>
+            <p><strong>Type de contrat :</strong> [CDD ou CDI]</p>
+            <p><strong>Date de publication :</strong> [11 Semptembre 2023]</p>
             <h3>Description de l'offre :</h3>
             <p>
                 [Description détaillée de l'offre d'emploi. Vous pouvez ajouter des informations sur les responsabilités, les qualifications requises, les avantages, etc.]
