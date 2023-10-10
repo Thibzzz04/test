@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Offres d'emploi</title>
+    <title>Offre d'emploi - [Titre du poste]</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Offres d'emploi</h1>
+        <h1>Offre d'emploi - [Titre du poste]</h1>
         <nav>
             <ul>
                 <li><a href="#">Accueil</a></li>
@@ -19,17 +19,20 @@
         </nav>
     </header>
     <main>
-        <section class="recherche-offres">
-            <h2>Rechercher des offres d'emploi</h2>
-            <form>
-                <input type="text" placeholder="Titre du poste">
-                <input type="text" placeholder="Lieu">
-                <button type="submit">Rechercher</button>
-            </form>
-        </section>
-        <section class="offres-populaires">
-            <h2>Offres d'emploi populaires</h2>
-            <!-- Insérez ici une liste d'offres populaires -->
+        <section class="offre-demploi">
+            <h2>[Titre du poste]</h2>
+            <p><strong>Entreprise :</strong> [Nom de l'entreprise]</p>
+            <p><strong>Lieu :</strong> [Lieu du poste]</p>
+            <p><strong>Type de contrat :</strong> [Type de contrat]</p>
+            <p><strong>Date de publication :</strong> [Date de publication]</p>
+            <h3>Description de l'offre :</h3>
+            <p>
+                [Description détaillée de l'offre d'emploi. Vous pouvez ajouter des informations sur les responsabilités, les qualifications requises, les avantages, etc.]
+            </p>
+            <h3>Comment postuler :</h3>
+            <p>
+                [Instructions pour postuler à l'offre d'emploi, par exemple, envoyer un CV et une lettre de motivation à une adresse e-mail spécifique, remplir un formulaire en ligne, etc.]
+            </p>
         </section>
     </main>
     <footer>
@@ -37,3 +40,4 @@
     </footer>
 </body>
 </html>
+
